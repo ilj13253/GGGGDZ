@@ -1,0 +1,16 @@
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\ConsoleApp76.exe.config
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\ConsoleApp76.exe
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\ConsoleApp76.pdb
+C:\Users\Илья\source\repos\ConsoleApp76\obj\Debug\ConsoleApp76.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\ConsoleApp76\obj\Debug\ConsoleApp76.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\ConsoleApp76\obj\Debug\ConsoleApp76.csproj.CopyComplete
+C:\Users\Илья\source\repos\ConsoleApp76\obj\Debug\ConsoleApp76.exe
+C:\Users\Илья\source\repos\ConsoleApp76\obj\Debug\ConsoleApp76.pdb
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL.dll
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL2.dll
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL3.dll
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL4.dll
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL2.pdb
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL3.pdb
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL4.pdb
+C:\Users\Илья\source\repos\ConsoleApp76\bin\Debug\DFL.pdb

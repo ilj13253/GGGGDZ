@@ -1,0 +1,5 @@
+C:\Users\Илья\source\repos\DFL2\bin\Debug\DFL2.dll
+C:\Users\Илья\source\repos\DFL2\bin\Debug\DFL2.pdb
+C:\Users\Илья\source\repos\DFL2\obj\Debug\DFL2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\DFL2\obj\Debug\DFL2.dll
+C:\Users\Илья\source\repos\DFL2\obj\Debug\DFL2.pdb
